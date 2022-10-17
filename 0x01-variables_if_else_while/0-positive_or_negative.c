@@ -3,7 +3,8 @@
 #include <time.h>
 
 /**
- * main - print whether the number stored is positive, negative or 0
+ * main - entry point
+ * description - print whether the number stored is positive, negative or 0
  * return: always 0
 */
 
