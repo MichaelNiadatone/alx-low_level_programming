@@ -3,15 +3,9 @@
 #include <time.h>
 
 /**
-<<<<<<< HEAD
  * main - print whether the number stored is positive or negative
  *
  * return: always 0
-=======
- * main -print whether the number stored is positive or negative
- *
- * return: 0
->>>>>>> 7671b3b980621f5a119c709d77d207660da005b5
 */
 
 int main(void)
@@ -23,11 +17,7 @@ int main(void)
 
 	if (n > 0)
 	{
-<<<<<<< HEAD
 		printf("%d is positive\n", n);
-=======
-		printf("%d is posstive\n", n);
->>>>>>> 7671b3b980621f5a119c709d77d207660da005b5
 	}
 	else if (n == 0)
 	{
