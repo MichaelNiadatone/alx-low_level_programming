@@ -4,8 +4,8 @@
 
 /**
  * main - entry point
- * description - print whether the number stored is positive, negative or 0
- * return: always 0
+ * Description - print whether the number stored is positive, negative or 0
+ * Return: always 0
 */
 
 int main(void)
