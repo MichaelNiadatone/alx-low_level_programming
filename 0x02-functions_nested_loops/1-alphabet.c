@@ -2,7 +2,7 @@
 
 /**
  * main -prints the alphabet, in lowercase, followed by a new line.
- *
+ *describtion: _putchar
  * Return: Always 0.
  */
 
