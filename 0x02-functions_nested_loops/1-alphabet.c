@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * alphabet.c -prints the alphabet, in lowercase, followed by a new line
+ * alphabet.c -prints the alphabet, in lowercase, followed by a new line.
  *
- * Return: always 0
+ * Return: Always 0.
  */
 
 void print_alphabet(void)
