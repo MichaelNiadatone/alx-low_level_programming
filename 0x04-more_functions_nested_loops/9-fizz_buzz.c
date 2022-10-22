@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	int main;
+	int n;
 
 	printf("1");
 	for (n = 2; n <= 100; n++)
