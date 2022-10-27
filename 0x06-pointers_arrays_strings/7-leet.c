@@ -1,4 +1,4 @@
-#includen "main.h"
+#include "main.h"
 
 /**
  * leet -function that encodes a string into 1337
@@ -23,6 +23,6 @@ for (i = 0; n[i] != '\0'; i++)
 		}
 	}
 }
-return (n);
 
+return (n);
 }
