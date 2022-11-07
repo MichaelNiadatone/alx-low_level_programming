@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - a function that prints its name
+ * main -function that prints its name
  * @argc: argc parameter
  * @argv: list array
- * Return: 0  success
+ * Return: 0 success
  */
 
 int main(int argc, char *argv[])
@@ -15,5 +15,5 @@ int main(int argc, char *argv[])
 	{
 		printf("%s\n", argv[i]);
 	}
-
 	return (0);
+}
