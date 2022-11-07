@@ -14,13 +14,13 @@ int main(int argc, char *argv[])
 
 	if (argc != 3)
 	{
-		printf("%s\n", error);
+		printf("%s\n", "error");
 		return (1);
 	}
 	num1 = atoi(argv[1]);
 	num2 = atoi(argv[2]);
 	results = num1 * num2;
 
-	printf("%d\n", result);
+	printf("%d\n", results);
 	return (0);
 }
