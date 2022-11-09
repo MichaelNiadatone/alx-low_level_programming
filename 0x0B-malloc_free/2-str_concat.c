@@ -2,14 +2,14 @@
 #include <stdlib.h>
 
 /**
- * string_concat - Concatenates two strings
+ * str_concat - Concatenates two strings
  * @s1: The first string
  * @s2: The second string.
  * @n: The maximum number of bytes of s2 to concatenate to s1
  * Return: If the function fails - NULL.
  */
 
-char *string_concat(char *s1, char *s2)
+char *str_concat(char *s1, char *s2)
 {
 	char *concat;
 	unsigned int len = n, index;
