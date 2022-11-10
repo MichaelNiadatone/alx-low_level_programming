@@ -3,22 +3,21 @@
 #include <stdlib.h>
 
 /**
- * main -funtion to print its name
+ * main -print multiplication of two integer
  * @argc: argc parameter
  * @argv: list arrays
- * Return: 0 success
+ * Return: 0 if true, 1 if false
  */
 
 int main(int argc, char *argv[])
 {
-	int num1, num2;
+	int a, b;
 
 	if (argc == 3)
 	{
-	num1 = atoi(argv[1]);
-	num2 = atoi(argv[2]);
-
-	printf("%d\n", num1 * num2);
+	a = atoi(argv[1]);
+	b = atoi(argv[2]);
+	printf("%d\n", a * b);
 	return (0);
 	}
 
